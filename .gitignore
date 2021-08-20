@@ -1,2 +1,5 @@
 yig-quant
 .python-version
+*.xlsx
+*.csv
+./3주차/퀀트데이터2021.08.19(21년2Q매영순YOYQOQ).xlsx
